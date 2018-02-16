@@ -1,3 +1,4 @@
 Will Smith
-John Cena
+Bruno Gagliasso
 Jack Chan
+Ed Helm
